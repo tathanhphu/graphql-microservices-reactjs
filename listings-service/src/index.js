@@ -1,2 +1,2 @@
 import path from 'path';
-console.log('Working and fucking hi');
+console.log('Listing service is working');

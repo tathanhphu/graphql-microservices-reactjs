@@ -1,2 +1,2 @@
 import path from 'path';
-console.log('Working and fucking');
+console.log('Users service is Working');
