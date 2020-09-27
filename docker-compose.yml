@@ -1,6 +1,6 @@
 version: "3"
 services: 
-  api-getway:
+  api-gateway:
     build: "./api-gateway"
     depends_on:
       - listings-service
